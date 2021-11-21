@@ -7,6 +7,7 @@ title: 01 - Monitorización de búsquedas PSI
 ## Mi primer artículo
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"salud mental","geo":"ES","time":"today 5-y"},{"keyword":"psiquiatra","geo":"ES","time":"today 5-y"},{"keyword":"psicologo","geo":"ES","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=ES&q=salud%20mental,psiquiatra,psicologo","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
+Gráfico dinámico de datos representados de los **5 últimos años** (abrir web en chrome si no se visualiza)
 
 En este primer artículo, pretendo introducir brevemente un análisis de búsquedas con la web de 'Google Trends'.
 

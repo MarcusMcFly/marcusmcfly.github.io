@@ -5,11 +5,12 @@ title: 02 - Búsquedas PSI parte 2
 ---
 
 ## Entrando en detalle
+#### (<5 minutos de lectura)
 
 
 En la parte 1 ['01 - Monitorización de búsquedas PSI'][link01BusPSI], se introdujo esta genial utilidad de Google para monitorizar búsquedas de cualquier cosa en su propio www.google.com:
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"vacaciones","geo":"ES","time":"today 5-y"},{"keyword":"salud mental","geo":"ES","time":"today 5-y"},{"keyword":"comprar casa","geo":"ES","time":"today 5-y"},{"keyword":"montaña","geo":"ES","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=ES&q=vacaciones,salud%20mental,comprar%20casa,monta%C3%B1a","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
-Gráfico dinámico de datos representados de los **5 últimos años**
+Gráfico dinámico de datos representados de los **5 últimos años** (abrir web en Chrome si no se visualiza)
 
 En la gráfica superior, se puede ver cómo se reescala la búsqueda de 'salud mental' (esta vez en rojo), comparada con otras búsquedas mucho más demandadas como por ejemplo 'vacaciones' (en azul). Se siguen viendo los pequeños "piquitos" rojos de los meses de octubre, pero por ejemplo, en esta ocasión, quedan casi invisibilizados por los potentes ciclos veraniegos de julio y agosto de 'vacaciones' (nota: se puede pulsar la gráfica para ver fecha y valores relativos de cada término)
 
@@ -57,10 +58,10 @@ Se observa una evolución hacia el Lexatin en ciertas comunidades, y un cambio a
 La medicación, es una ‘pata’ fundamental de la mayor parte de los tratamientos para los trastornos mentales de cualquier tipo cuando los síntomas alcanzan su punto más agudo, pero sobre todo, para los llamados trastornos mentales graves en sus momentos más críticos. 
 
 El tratamiento debe ser riguroso y seguido de cerca por un psiquiatra. Se aconseja además administrar la mínima dosis posible, siempre que sea terapeútica, durante el menor tiempo posible, combinándolo desde el principio, si se tienen los medios, con tratamientos no farmacológicos como las distintas técnicas de psicoterapia ya sea con un psicólogo clínico o un psiquiatra especializado. Una vez establecida la fase de estabilización, en muchos casos es posible reducir e incluso consensuar con el paciente eliminar la medicación.
-Queda para otro artículo desarrollar esto un poco más, no sin antes de despedirme mencionar que un poco de playa o montaña, puede tener la misma fuerza o más que uno de estos tranquilizantes. En ningún caso sustituible y siempre bajo revisión médica, pero, al menos anima, que la gente busque más 'montaña' que 'Lexatin', simpre fue y será mejor tomar un caldo calentito en la montaña, que una pastilla para cenar con tu sopa.
+Queda para otro artículo desarrollar esto un poco más, no sin antes de despedirme mencionar que un poco de playa o montaña, puede tener la misma fuerza o más que uno de estos tranquilizantes. En ningún caso sustituible y siempre bajo revisión médica, pero, al menos anima, que la gente busque más 'montaña' que 'Lexatin', siempre fue y será mejor tomar un caldo calentito en la montaña, que una pastilla para cenar con tu sopa.
 
 ![800x250](https://marcusmcfly.github.io/foto_finish_psi2.JPG)
-Foto tomada durante el 'LX Curso Básico de Supervivencia en Montaña' realizado por [Aventuraleza][link02FotoAven] (26-27 sept 2020)
+Foto tomada durante el 'LX Curso Básico de Supervivencia en Montaña' realizado por [Aventuraleza][link02FotoAven] (26-27 sept 2020). Soy el último que sube, fondo derecha.
 
 [link01BusPSI]: https://marcusmcfly.github.io/psianalisis
 [link02FotoAven]: http://www.aventuraleza.es/
