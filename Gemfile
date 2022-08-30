@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-gem "kramdown-parser-gfm"
+gem "jekyll-theme-leaf"
 
 source "https://rubygems.org"
 gemspec
