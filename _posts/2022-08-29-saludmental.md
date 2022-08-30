@@ -3,6 +3,7 @@ layout: post
 author: Marcos Calle
 title: 04 - ¿Cómo vas de salud? ¿Y de salud mental?
 ---
+ENGLISH version here: ['04 - How's your health? And mental health?'][link01_english]
 
 ### En este tsunami de noticias bélicas impactantes, calor y ritmo asfixiante, nuestro niño interior puede tener cosas útiles que decirnos.
 
@@ -134,7 +135,7 @@ Parafraseando a Eleanor Roosevelt con su profunda afirmación ‘El futuro perte
 
 19:50 29/08/2022
 
-
+[link01_english]: https://marcusmcfly.github.io/mentalhealth
 
 
 
