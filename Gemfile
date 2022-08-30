@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-gem "jekyll-theme-leaf"
+gem "github-pages", group: :jekyll_plugins
 
 source "https://rubygems.org"
 gemspec

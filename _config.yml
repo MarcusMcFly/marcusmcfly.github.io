@@ -1,6 +1,6 @@
 title: Mens Sana
 iconURL: assets/default-icon.png
-theme: jekyll-theme-leaf
+remote_theme: pages-themes/slate@v0.2.0
 
 # for a clean URL
 permalink: :slug
@@ -12,6 +12,9 @@ social:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - github-pages
+ - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 ### comments & analytics
 hyvor_talk_website_id: 
