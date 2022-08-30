@@ -3,6 +3,7 @@ layout: post
 author: Marcos Calle
 title: 04 - How's your health? And mental health?
 ---
+Versión en ESPAÑOL aquí: ['¿Cómo vas de salud? ¿Y de salud mental?'][link01_esp]
 
 ### In this tsunami of shocking war news, heat, and stifling pace, our inner child may have helpful things to tell us.
 
@@ -145,7 +146,6 @@ Paraphrasing Eleanor Roosevelt with her profound statement 'The future belongs t
 
 19:50 29/08/2022
 
-
-
+[link01_esp]: https://marcusmcfly.github.io/saludmental
 
 
